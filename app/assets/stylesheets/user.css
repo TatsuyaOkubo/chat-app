@@ -36,8 +36,9 @@
 .account-page .account-page__header .btn {
   margin-top: 20px;
   color: #fff;
-  background-color: #ccc;
+  background-color: #38aef0;
   font-size: 14px;
+  text-decoration: none;
 }
 .account-page .field {
   margin-bottom: 10px;
@@ -70,7 +71,7 @@
   float: left;
   margin-top: 20px;
   color: #fff;
-  background-color: #38aef0;
+  background-color: #d65f4c;
 }
 .account-page .field-label .field_with_errors {
   display: inline-block;
